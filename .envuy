@@ -1,0 +1,2 @@
+DB_URL=postgresql://neondb_owner:npg_3bgIB0JsmKfS@ep-cool-term-adt4zfe3-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require
+ALPHA_VANTAGE_API_KEY=0D6YJ3Q0196IZG8C
